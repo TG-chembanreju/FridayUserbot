@@ -1,1 +1,1 @@
-bot: python -m main_startup
+op: python -m main_startup
